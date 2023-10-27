@@ -31,17 +31,27 @@ h6 {
   background: url(../images/space.jpg) center no-repeat;
   background-size: cover;
 }
-.sw{
-    width: 72px
-height: 32px
-top: 32px
-left: 95px
+.sw {
+  width: 72px;
+  height: 32px;
+  top: 32px;
+  left: 95px;
 }
-.icon{
-    width: 100%;
-    /* position: absolute;
+.icon {
+  width: 100%;
+  /* position: absolute;
     top: 0;
     left: 0;
     right: 0;
     z-index: 1000; */
+}
+.items {
+  width: 100%;
+  background: url(../images/Rectangle\ 31.jpg) center no-repeat;
+  background-size: cover;
+}
+.rules {
+  width: 100%;
+  background: url(../images/space.jpg) center no-repeat;
+  background-size: cover;
 }
